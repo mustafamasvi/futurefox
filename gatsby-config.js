@@ -1,7 +1,6 @@
 const autoprefixer = require('autoprefixer');
 
 module.exports = {
-  pathPrefix: "/futurefox",
   plugins: [
     {
       resolve: `gatsby-plugin-postcss-sass`,
