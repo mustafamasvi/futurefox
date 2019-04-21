@@ -6,39 +6,39 @@
   X-Content-Type-Options: nosniff
 /static/*
   Cache-Control: max-age=31536000
-/futurefox/404/
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-404-jsx-3fb6b5fd6f79124f6259.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
-/futurefox/contact/
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---contact-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-contact-jsx-dd28f2db56ea7875bc29.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
-/futurefox/
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---index-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-index-jsx-8863c4aba1b768104ba0.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
-/futurefox/playground/
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---playground-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-playground-jsx-3eb8373f3c2e1e54d0f6.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
-/futurefox/toolbox/
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---toolbox-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-toolbox-jsx-e6b7348954d3dee5ecf5.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
-/futurefox/404.html
-  Link: </futurefox/commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
-  Link: </futurefox/app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
-  Link: </futurefox/path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
-  Link: </futurefox/component---src-pages-404-jsx-3fb6b5fd6f79124f6259.js>; rel=preload; as=script
-  Link: </futurefox/component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/404/
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-jsx-3fb6b5fd6f79124f6259.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/contact/
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---contact-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-contact-jsx-dd28f2db56ea7875bc29.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---index-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-index-jsx-8863c4aba1b768104ba0.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/playground/
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---playground-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-playground-jsx-3eb8373f3c2e1e54d0f6.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/toolbox/
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---toolbox-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-toolbox-jsx-e6b7348954d3dee5ecf5.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
+/404.html
+  Link: </commons-1d413f9cc1b8136b3629.js>; rel=preload; as=script
+  Link: </app-27b6bc3bca5361497cc7.js>; rel=preload; as=script
+  Link: </path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-jsx-3fb6b5fd6f79124f6259.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-jsx-5804576fc7b59e1b101d.js>; rel=preload; as=script
